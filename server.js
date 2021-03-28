@@ -3,7 +3,7 @@ const express = require("express");
 const app = express();
 
 app.get("/api/", (req, res) => {
-  res.send("This is root route").status(200);
+  res.send("This is root route updated").status(200);
 });
 
 app.get("/api/profile", (req, res) => {
