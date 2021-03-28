@@ -1,0 +1,11 @@
+{
+  "name": "ci-cd-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dev-coderc/ci-cd-express.git",
+  "author": "Coderc <dev@coderc.in>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
